@@ -49,7 +49,7 @@ img{
 .image1{
     margin-right: 10px;
 }
-img:active{
+img:hover{
     transform: scale(1) rotatey(180deg);
     filter: grayscale(0%);
 }
